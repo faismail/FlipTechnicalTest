@@ -5,6 +5,7 @@
 npm install 
 cd ios 
 pod install
+react-native link
 
 # Sorting Menu 
 In sorting Menu, i use basic touchableopacity to get the styling look like in the mockup. Befor that i use Checkbox from native-base, but it quite hard to get the right style with the mockup. 
